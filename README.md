@@ -4,7 +4,7 @@ My research interest lies in **Deep Learning and Computer Vision in medical sett
 
 If you want to collaborate/have questions, send me an email (Note: I may be slow to respond).
 <a href="https://jimut123.github.io/blogs/JBP_Scripts.html" alt="JBP Scripts" target="_blank" id="bold_id" > Here </a> are a set of PDFs and notes. 
-I wrote most of them during my stay at RKMVERI. I also write <a href="https://jimut123.github.io/blog.html" target="_blank"> blogs </a> in my leisure time. I used to dabble on different <a href="https://jimut123.github.io/projects.html" target="_blank"> projects <a> during my undergraduate.
+I wrote most of them during my stay at RKMVERI. I also write <a href="https://jimut123.github.io/blog.html" target="_blank"> blogs </a> in my leisure time. I used to dabble on different <a href="https://jimut123.github.io/projects.html" target="_blank"> projects <a> during my undergraduate studies.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimut123" alt="jimut123" /> </p>
