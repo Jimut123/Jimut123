@@ -6,7 +6,7 @@ If you want to collaborate/have questions, send me an email (Note: I may be slow
 <a href="https://jimut123.github.io/blogs/JBP_Scripts.html" alt="JBP Scripts" target="_blank" id="bold_id" > Here </a> are a set of PDFs and notes. 
 I wrote most of them during my stay at RKMVERI. I also write <a href="https://jimut123.github.io/blog.html" target="_blank"> blogs </a> in my leisure time. I used to dabble on different <a href="https://jimut123.github.io/projects.html" target="_blank"> projects <a> during my undergraduate studies.
 
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimut123" alt="jimut123" /> </p>
 
 <p align="center">
@@ -18,8 +18,9 @@ I wrote most of them during my stay at RKMVERI. I also write <a href="https://ji
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jimut123&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="jimut123" /></p>
+-->
 
-![snake gif](https://github.com/Jimut123/Jimut123/blob/output/github-contribution-grid-snake.gif)
+#![snake gif](https://github.com/Jimut123/Jimut123/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
