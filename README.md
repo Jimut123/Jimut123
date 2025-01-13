@@ -18,10 +18,10 @@ I wrote most of them during my stay at RKMVERI. I also write <a href="https://ji
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jimut123&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="jimut123" /></p>
+
+
+![snake gif](https://github.com/Jimut123/Jimut123/blob/output/github-contribution-grid-snake.gif)
 -->
-
-#![snake gif](https://github.com/Jimut123/Jimut123/blob/output/github-contribution-grid-snake.gif)
-
 
 <!--
 **Jimut123/Jimut123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
